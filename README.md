@@ -1,5 +1,5 @@
 # LeapMemo
-Memo app using Leapmotion
+Memo app on your browser using Leapmotion
 
 ##これは何？
 
